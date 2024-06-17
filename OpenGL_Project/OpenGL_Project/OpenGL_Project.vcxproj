@@ -71,8 +71,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <ExternalIncludePath>Z:\OpenGL\Practice\OpenGL_Template\includes;$(ExternalIncludePath)</ExternalIncludePath>
-    <LibraryPath>Z:\OpenGL\Practice\OpenGL_Template\lib;$(LibraryPath)</LibraryPath>
+    <ExternalIncludePath>Z:\OpenGL\Practice\OpenGL_Practice\OpenGL_Template\includes;$(ExternalIncludePath)</ExternalIncludePath>
+    <LibraryPath>Z:\OpenGL\Practice\OpenGL_Practice\OpenGL_Template\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
