@@ -24,5 +24,8 @@
     <ClCompile Include="Sources\make_two_triangle.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Sources\Create_Two_With_VAO_VBO.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

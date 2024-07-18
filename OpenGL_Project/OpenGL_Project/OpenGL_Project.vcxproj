@@ -132,6 +132,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Sources\Create_Two_With_VAO_VBO.cpp" />
     <ClCompile Include="Sources\glad.c" />
     <ClCompile Include="Sources\main.cpp" />
     <ClCompile Include="Sources\make_two_triangle.cpp" />
