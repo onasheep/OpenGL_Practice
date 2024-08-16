@@ -136,6 +136,7 @@
     <ClCompile Include="Sources\glad.c" />
     <ClCompile Include="Sources\main.cpp" />
     <ClCompile Include="Sources\make_two_triangle.cpp" />
+    <ClCompile Include="Sources\create_two_with_fragmentShader.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
